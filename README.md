@@ -7,7 +7,7 @@ Lots of us love to sing with other people, but it’s hard to do when we can’t
 
 So instead, let’s try doing it piecemeal. A song leader can post a lead track, and others can record themselves singing along. We’ll mix them and release them.
 ## How can I participate?
-Go to one of the folders here for a specific song. Download or listen to to the lead track with headphones, record yourself singing along, then share the recording.
+There’s a list of songs below, or you can look at the file browser on the project home page and find the folder for a song there. Download or listen to to the lead track with headphones, record yourself singing along, then share the recording.
  * [Directions for non-nerds](HowToShare.md)
  * [Directions for nerds](CONTRIBUTING.md)
 ## Songs
