@@ -4,8 +4,8 @@ This is a filk on the Copper family song [“Drive Sorrows Away”](https://mudc
 [Folding at Home](https://foldingathome.org/) is the world’s largest supercomputer, and you can join it with your home devices. They work on protein-folding problems, especially currently working on the proteins in SARS-CoV-2. That was the lyrical hook that led me to this song.
 ## Contributing
 Please feel free to sing along!
- * [Directions for non-nerds](HowToShare.md)
- * [Directions for nerds](CONTRIBUTING.md)
+ * [Directions for non-nerds](../HowToShare.md)
+ * [Directions for nerds](../CONTRIBUTING.md)
 
 The lead track is … *still to come*.
 ## Lyrics
