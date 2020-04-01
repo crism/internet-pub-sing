@@ -16,7 +16,7 @@ This is one of those songs where the chorus is the last line of the verse repeat
 > <br />**COVID at bay, COVID at bay, COVID at bay,**
 > <br />**Since we’ve learned social distance keeps COVID at bay.**
 > 
-> If you ask me for masks, you’ll find I have none;
+> If you ask me for masks, well, you’ll find I have none;
 > <br />But with my little laptop, I’m [Folding at Home](https://foldingathome.org/).
 > <br />**Folding at Home, Folding at Home, Folding at Home,**
 > <br />**But with my little laptop, I’m Folding at Home.**
