@@ -26,7 +26,7 @@ This is one of those songs where the chorus is the last line of the verse repeat
 > <br />**Pub sings are gone, pub sings are gone, pub sings are gone,**
 > <br />**Now the pubs are all closed and the pub sings are gone.**
 > 
-> Though our calendar’s empty and our social life’s poor,
+> Though our calendar’s empty and our social life is poor,
 > <br />We will sing like we’re singing with thousands or more!
 > <br />**Thousands or more, thousands or more, thousands or more,**
 > <br />**We will sing like we’re singing with thousands or more!**
