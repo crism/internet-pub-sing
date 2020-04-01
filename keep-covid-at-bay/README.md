@@ -30,5 +30,7 @@ This is one of those songs where the chorus is the last line of the verse repeat
 > <br />We will sing like we’re singing with thousands or more!
 > <br />**Thousands or more, thousands or more, thousands or more,**
 > <br />**We will sing like we’re singing with thousands or more!**
+> <br />**Thousands or more, thousands or more, thousands or more,**
+> <br />**We will sing like we’re singing with thousands or more!**
 
 Tune is traditional. Lyrics copyright © 2020 Chris Maden; licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (“CC-BY”).
