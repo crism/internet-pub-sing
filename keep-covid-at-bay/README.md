@@ -9,11 +9,11 @@ Please feel free to sing along!
 
 ### Lead track and song sheet
 
-You can listen to the [lead audio only here](00-lead-audio-maden-covid.mp3).
+You can listen to the [lead audio only here](https://github.com/crism/internet-pub-sing/raw/master/keep-covid-at-bay/00-lead-audio-maden-covid.mp3).
 
-Or you can sing along with [the video](00-lead-video-maden-covid.mp3).
+Or you can sing along with [the video](https://github.com/crism/internet-pub-sing/raw/master/keep-covid-at-bay/00-lead-video-maden-covid.mp4).
 
-A lead sheet is available in [PDF](covid.pdf) with an accompanying [MIDI](covid.midi), generated from [this file](covid.ly) with [LilyPond](https://lilypond.org/).
+A lead sheet is available in [PDF](https://github.com/crism/internet-pub-sing/raw/master/keep-covid-at-bay/covid.pdf) with an accompanying [MIDI](https://github.com/crism/internet-pub-sing/raw/master/keep-covid-at-bay/covid.midi), generated from [this file](https://github.com/crism/internet-pub-sing/raw/master/keep-covid-at-bay/covid.ly) with [LilyPond](https://lilypond.org/).
 
 ### Lyrics
 This is one of those songs where the chorus is the last line of the verse repeated. The bold bit below is the chorus. Feel free to sing along to as much or as little as you like, follow the melody or add harmony, whatever.
