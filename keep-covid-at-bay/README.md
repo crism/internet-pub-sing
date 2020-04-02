@@ -1,5 +1,5 @@
 # “Keep COVID at Bay”
-This is a filk on the Copper family song [“Drive Sorrows Away”](https://mudcat.org/@displaysong.cfm?SongID=1724) for the era of social distancing.
+This is a filk on the Copper family song [“Drive Sorrows Away”](https://mudcat.org/@displaysong.cfm?SongID=1724) (a/k/a “Thousands or More”) for the era of social distancing.
 
 [Folding at Home](https://foldingathome.org/) is the world’s largest supercomputer, and you can join it with your home devices. They work on protein-folding problems, especially currently working on the proteins in SARS-CoV-2. That was the lyrical hook that led me to this song.
 ## Contributing
@@ -7,8 +7,15 @@ Please feel free to sing along!
  * [Directions for non-nerds](../HowToShare.md)
  * [Directions for nerds](../CONTRIBUTING.md)
 
-The lead track is … *still to come*.
-## Lyrics
+### Lead track and song sheet
+
+You can listen to the [lead audio only here](00-lead-audio-maden-covid.mp3).
+
+Or you can sing along with [the video](00-lead-video-maden-covid.mp3).
+
+A lead sheet is available in [PDF](covid.pdf) with an accompanying [MIDI](covid.midi), generated from [this file](covid.ly) with [LilyPond](https://lilypond.org/).
+
+### Lyrics
 This is one of those songs where the chorus is the last line of the verse repeated. The bold bit below is the chorus. Feel free to sing along to as much or as little as you like, follow the melody or add harmony, whatever.
 
 > The time passes slowly, it’s dreary and gray,
