@@ -17,6 +17,7 @@ You **MUST** include the following in your e-mail!
  * Your name(s) as you wish to be credited.
  * The statement: “I am the author of this recording and I hold its copyright.” (Or a plural version if appropriate.)
  * The statement: “I license this recording under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).” (Or a plural version if appropriate.)
+
 If you do not include those statements, then I do not consider that we have the right to incorporate your recording into a mix.
 ## Ask for help
 If you have any questions or problems, please feel free to e-mail me at music@maden.org.
