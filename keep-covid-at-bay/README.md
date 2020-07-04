@@ -18,6 +18,8 @@ A lead sheet is available in [PDF](https://github.com/crism/internet-pub-sing/ra
 ### Lyrics
 This is one of those songs where the chorus is the last line of the verse repeated. The bold bit below is the chorus. Feel free to sing along to as much or as little as you like, follow the melody or add harmony, whatever.
 
+When I wrote this, masks were hard to find. Now, I wear one of several when I’m out, and I assume you do too.
+
 > The time passes slowly, it’s dreary and gray,
 > <br />Since we’ve learned social distance keeps COVID at bay.
 > <br />**COVID at bay, COVID at bay, COVID at bay,**
@@ -40,4 +42,8 @@ This is one of those songs where the chorus is the last line of the verse repeat
 > <br />**Thousands or more, thousands or more, thousands or more,**
 > <br />**We will sing like we’re singing with thousands or more!**
 
-Tune is traditional. Lyrics copyright © 2020 Chris Maden; licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (“CC-BY”).
+### Harmony tracks
+ * [Naomi Hinchen](01-hinchen-harmony.m4a)
+ * [Heather Caunt-Nulton](02-caunt-nulton-harmony.mp4)
+
+Tune is traditional. Lyrics copyright © 2020 Chris Maden; licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/) (“CC-BY”). Audio and video tracks copyright by their respective performers, licensed under [CC-BY](https://creativecommons.org/licenses/by/4.0/).
